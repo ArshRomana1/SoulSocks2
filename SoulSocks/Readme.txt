@@ -89,3 +89,10 @@ and database is populating
 
 (1500) 02/17/2023
 Resuming assignmnet 2 Hours left
+
+(1530)
+Seeded the Database with 10 enteries and changed program.cs file
+also created a new class file Seeddata.cs
+
+(1540)
+ran the program , No issues yet its running Perfectely
