@@ -86,3 +86,6 @@ there was an issue with the Database, I spent over 90 minutes on that, at last I
 (2200)
 Scaffolding done, Migrations are done
 and database is populating
+
+(1500) 02/17/2023
+Resuming assignmnet 2 Hours left
