@@ -79,3 +79,10 @@ So I had to Change that to "ID" From "productID", I guess It will not accept the
 got an another error "A network-related or instance-specific error occurred while establishing a connection to SQL Server. 
 The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to
 allow remote connections. (provider: SQL Network Interfaces, error: 50 - Local Database Runtime error occurred. Specified LocalDB instance name is invalid.)
+
+I had to restrat the whole project , started from stratch.
+there was an issue with the Database, I spent over 90 minutes on that, at last I had to start over.
+
+(2200)
+Scaffolding done, Migrations are done
+and database is populating
