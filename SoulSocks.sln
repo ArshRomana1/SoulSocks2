@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoulSocks", "SoulSocks\SoulSocks.csproj", "{8171C7F7-7024-4078-81AF-12D5B5C6E513}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8171C7F7-7024-4078-81AF-12D5B5C6E513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8171C7F7-7024-4078-81AF-12D5B5C6E513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8171C7F7-7024-4078-81AF-12D5B5C6E513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8171C7F7-7024-4078-81AF-12D5B5C6E513}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2845D979-67F2-43EB-9F07-5272B8A9ABF5}
+	EndGlobalSection
+EndGlobal
