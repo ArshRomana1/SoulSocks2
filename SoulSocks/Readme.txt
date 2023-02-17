@@ -106,4 +106,8 @@ Updates index.cshtml and updated an Index method in the SocksController.cs file
 Added a new fields and populated the database manually
 for that i had to update various files such as index.cshtml ,delete.cshtml etc
 and tried running it and it was working perfectly.
-NO ERRORS SO FAr
+NO ERRORS SO FAR
+
+(1830)
+Checked Database for Errors ,Found one in deleting Entry 
+fixed it working Fine now
