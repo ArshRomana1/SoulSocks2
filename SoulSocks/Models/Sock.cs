@@ -1,5 +1,5 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 namespace SoulSocks.Models
 {
     public class Sock
@@ -11,6 +11,8 @@ namespace SoulSocks.Models
         public string Material { get; set; }
         public string Length { get; set; }
         public string Colour { get; set; }
+
+        [Column(TypeName = "decimal(18, 2)")]
         public decimal Price { get; set; }
     }
 }

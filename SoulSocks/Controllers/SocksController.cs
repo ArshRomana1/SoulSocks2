@@ -20,9 +20,17 @@ namespace SoulSocks.Controllers
         }
 
         // GET: Socks
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            return View(await _context.Sock.ToListAsync());
+            var socks = from s in _context.Sock
+                         select s;
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                socks = socks.Where(s => s.Brand.Contains(searchString));
+            }
+
+            return View(await socks.ToListAsync());
         }
 
         // GET: Socks/Details/5

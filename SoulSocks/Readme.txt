@@ -96,3 +96,8 @@ also created a new class file Seeddata.cs
 
 (1540)
 ran the program , No issues yet its running Perfectely
+
+(1549)
+Added A search box, on the Basis of Brand.
+which is one of the property of my Class.
+Updates index.cshtml and updated an Index method in the SocksController.cs file
