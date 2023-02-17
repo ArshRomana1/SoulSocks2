@@ -101,3 +101,9 @@ ran the program , No issues yet its running Perfectely
 Added A search box, on the Basis of Brand.
 which is one of the property of my Class.
 Updates index.cshtml and updated an Index method in the SocksController.cs file
+
+(1700)
+Added a new fields and populated the database manually
+for that i had to update various files such as index.cshtml ,delete.cshtml etc
+and tried running it and it was working perfectly.
+NO ERRORS SO FAr

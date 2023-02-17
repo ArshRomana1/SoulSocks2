@@ -29,7 +29,8 @@ new Sock
     Material = "Cotton",
     Length = "Full",
 Colour = "White",
-Price = 9M
+Price = 9M,
+    Rating = 5
 },
 new Sock
 {
@@ -37,7 +38,8 @@ new Sock
     Material = "Nylon",
     Length = "Knee",
 Colour = "Black",
-Price = 11M
+Price = 11M,
+    Rating = 5
 },
 new Sock
 {
@@ -45,7 +47,8 @@ new Sock
     Material = "Nylon",
     Length = "Knee",
     Colour = "Grey",
-Price = 19M
+Price = 19M,
+    Rating = 5
 },
 new Sock
 {
@@ -53,7 +56,8 @@ new Sock
     Material = "Wool",
     Length = "Ankle",
 Colour = "Black",
-    Price = 15M
+    Price = 15M,
+    Rating = 5
 },
 new Sock
 {
@@ -61,7 +65,8 @@ new Sock
     Material = "Cotton",
     Length ="No Show",
 Colour = "Black",
-    Price = 7M
+    Price = 7M,
+    Rating = 5
 },
 
 
@@ -71,7 +76,8 @@ new Sock
     Material = "Cotton",
     Length = "Full",
     Colour = "Red",
-Price = 12M
+Price = 12M,
+    Rating = 5
 },
 new Sock
 {
@@ -79,7 +85,8 @@ new Sock
     Material = "Cotton",
     Length = "No Show",
     Colour = "Black",
-    Price = 7M
+    Price = 7M,
+    Rating = 5
 },
 new Sock
 {
@@ -87,7 +94,8 @@ new Sock
     Material = "leather",
     Length = "Full",
     Colour = "Red",
-    Price = 112M
+    Price = 112M,
+    Rating = 5
 },
 new Sock
 {
@@ -95,7 +103,8 @@ new Sock
     Material = "Wool",
     Length = "Ankle",
     Colour = "Black",
-    Price = 15M
+    Price = 15M,
+    Rating = 5
 },
 new Sock
 {
@@ -103,7 +112,10 @@ new Sock
     Material = "Wool",
     Length = "Knee",
     Colour = "purple",
-    Price = 15M
+    Price = 15M,
+     Rating = 5
+
+
 }
 
 
