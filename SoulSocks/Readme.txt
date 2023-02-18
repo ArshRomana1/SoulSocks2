@@ -118,3 +118,7 @@ according to their datatypes, Set the String length to 60 Max , has set the pric
 and Rating from(1 to 5)
 Checked the Validation and updated the database by running Command.
 everything seems to be wrorking fine so far.
+
+(2040)
+Added two links to the navigation For Product list and About the comapny page.
+And applying Css to both the pages to make them look pretty
