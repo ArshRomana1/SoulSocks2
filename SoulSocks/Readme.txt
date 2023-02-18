@@ -121,4 +121,9 @@ everything seems to be wrorking fine so far.
 
 (2040)
 Added two links to the navigation For Product list and About the comapny page.
-And applying Css to both the pages to make them look pretty
+And applying Css to both the pages to make them look pretty.
+
+Applied CSS to the layout as well.
+
+(2100)
+Assignmnet Finsihed, I have checked all the steps and followed the instructions as throughly as I could.
