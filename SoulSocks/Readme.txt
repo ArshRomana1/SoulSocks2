@@ -110,4 +110,11 @@ NO ERRORS SO FAR
 
 (1830)
 Checked Database for Errors ,Found one in deleting Entry 
-fixed it working Fine now
+fixed it working Fine now.
+
+(1910)
+Added Validation to the properties
+according to their datatypes, Set the String length to 60 Max , has set the price range to 500
+and Rating from(1 to 5)
+Checked the Validation and updated the database by running Command.
+everything seems to be wrorking fine so far.
